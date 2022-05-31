@@ -4,7 +4,7 @@ Esta aplicação foi desenvolvida Json-Server no backend e ReactJs (Create React
 
 ## Como rodar a aplicação
 
-Entre na pasta server e em seu terminal digite:
+Entre na pasta server e em seu terminal digite "npm" para instalar as dependências. Feito isso digite o seguinte comando:
 
 ### `npm start`
 
@@ -12,11 +12,11 @@ A api estará ativa em:
 
 ### `https://localhost:3003/sales`
 
-Para iniciar o front, entre na pasta frontend e digite:
+Para iniciar o front, entre na pasta frontend e digite "yarn" para instalar as dependências. Feito isso digite o seguinte comando:
 
 ### `yarn start`
 
-A aplicação está rodando em:
+A aplicação estará rodando em:
 
 ### `https://localhost:3000`
 
